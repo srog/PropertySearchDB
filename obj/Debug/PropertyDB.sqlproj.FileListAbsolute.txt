@@ -1,0 +1,6 @@
+C:\Code\PropertyDB\bin\Debug\PropertyDB.dacpac
+C:\Code\PropertyDB\bin\Debug\PropertyDB.dll
+C:\Code\PropertyDB\bin\Debug\PropertyDB.pdb
+C:\Code\PropertyDB\obj\Debug\PropertyDB.sqlprojAssemblyReference.cache
+C:\Code\PropertyDB\obj\Debug\PropertyDB.dll
+C:\Code\PropertyDB\obj\Debug\PropertyDB.pdb
